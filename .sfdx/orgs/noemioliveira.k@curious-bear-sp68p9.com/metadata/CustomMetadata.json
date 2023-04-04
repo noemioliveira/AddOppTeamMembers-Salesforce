@@ -1,0 +1,18 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0058b00000HLs9mAAD",
+      "createdByName": "Noemi Krause",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "customMetadata/Org_liga_desliga_trriger.Run_All_Triggers.md",
+      "fullName": "Org_liga_desliga_trriger.Run_All_Triggers",
+      "id": "m008b000000lAuXAAU",
+      "lastModifiedById": "0058b00000HLs9mAAD",
+      "lastModifiedByName": "Noemi Krause",
+      "lastModifiedDate": "1970-01-01T00:00:00.000Z",
+      "manageableState": "unmanaged",
+      "type": "CustomMetadata"
+    }
+  ]
+}

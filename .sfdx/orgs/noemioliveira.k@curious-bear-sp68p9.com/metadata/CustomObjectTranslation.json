@@ -1,0 +1,18 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0058b00000HLs9mAAD",
+      "createdByName": "Noemi Krause",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "objectTranslations/Org_liga_desliga_trriger__mdt-pt_BR.objectTranslation",
+      "fullName": "Org_liga_desliga_trriger__mdt-pt_BR",
+      "id": "",
+      "lastModifiedById": "0058b00000HLs9mAAD",
+      "lastModifiedByName": "Noemi Krause",
+      "lastModifiedDate": "1970-01-01T00:00:00.000Z",
+      "namespacePrefix": "",
+      "type": "CustomObjectTranslation"
+    }
+  ]
+}

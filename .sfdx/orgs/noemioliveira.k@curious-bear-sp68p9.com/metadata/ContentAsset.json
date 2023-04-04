@@ -1,0 +1,19 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0058b00000HLs9mAAD",
+      "createdByName": "Noemi Krause",
+      "createdDate": "2023-03-22T12:04:39.000Z",
+      "fileName": "contentassets/trlhdtips__thflogo.asset",
+      "fullName": "trlhdtips__thflogo",
+      "id": "03S8b000000d26LEAQ",
+      "lastModifiedById": "0058b00000HLs9mAAD",
+      "lastModifiedByName": "Noemi Krause",
+      "lastModifiedDate": "2023-03-22T12:04:39.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "trlhdtips",
+      "type": "ContentAsset"
+    }
+  ]
+}

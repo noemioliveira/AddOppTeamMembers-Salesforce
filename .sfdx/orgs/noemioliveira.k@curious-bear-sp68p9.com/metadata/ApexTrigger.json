@@ -1,0 +1,31 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0058b00000HLs9mAAD",
+      "createdByName": "Noemi Krause",
+      "createdDate": "2023-03-22T13:27:14.000Z",
+      "fileName": "triggers/OppTrigger.trigger",
+      "fullName": "OppTrigger",
+      "id": "01q8b000000ktt0AAA",
+      "lastModifiedById": "0058b00000HLs9mAAD",
+      "lastModifiedByName": "Noemi Krause",
+      "lastModifiedDate": "2023-03-24T15:28:18.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexTrigger"
+    },
+    {
+      "createdById": "0058b00000HLs9mAAD",
+      "createdByName": "Noemi Krause",
+      "createdDate": "2023-03-23T22:40:03.000Z",
+      "fileName": "triggers/UserTrigger.trigger",
+      "fullName": "UserTrigger",
+      "id": "01q8b000000ktzIAAQ",
+      "lastModifiedById": "0058b00000HLs9mAAD",
+      "lastModifiedByName": "Noemi Krause",
+      "lastModifiedDate": "2023-03-23T22:40:03.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexTrigger"
+    }
+  ]
+}

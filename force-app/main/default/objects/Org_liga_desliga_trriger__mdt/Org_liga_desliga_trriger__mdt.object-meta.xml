@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Org_Specific_Setting__mdt</description>
+    <label>Org liga desliga trriger</label>
+    <pluralLabel>Org liga desliga trrigers</pluralLabel>
+    <visibility>Public</visibility>
+</CustomObject>

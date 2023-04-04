@@ -1,0 +1,111 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0058b00000HLs9mAAD",
+      "createdByName": "Noemi Krause",
+      "createdDate": "2023-03-22T12:04:39.000Z",
+      "fileName": "classes/trlhdtips__tt_UtilController.cls",
+      "fullName": "trlhdtips__tt_UtilController",
+      "id": "01p8b00000ASXXcAAP",
+      "lastModifiedById": "0058b00000HLs9mAAD",
+      "lastModifiedByName": "Noemi Krause",
+      "lastModifiedDate": "2023-03-22T12:04:39.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "trlhdtips",
+      "type": "ApexClass"
+    },
+    {
+      "createdById": "0058b00000HLs9mAAD",
+      "createdByName": "Noemi Krause",
+      "createdDate": "2023-03-23T22:41:32.000Z",
+      "fileName": "classes/UserTriggerHandler.cls",
+      "fullName": "UserTriggerHandler",
+      "id": "01p8b00000AiQXWAA3",
+      "lastModifiedById": "0058b00000HLs9mAAD",
+      "lastModifiedByName": "Noemi Krause",
+      "lastModifiedDate": "2023-03-23T22:41:32.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexClass"
+    },
+    {
+      "createdById": "0058b00000HLs9mAAD",
+      "createdByName": "Noemi Krause",
+      "createdDate": "2023-03-24T20:18:38.000Z",
+      "fileName": "classes/AddOppTeamMembersOwners_Test.cls",
+      "fullName": "AddOppTeamMembersOwners_Test",
+      "id": "01p8b00000AiogpAAB",
+      "lastModifiedById": "0058b00000HLs9mAAD",
+      "lastModifiedByName": "Noemi Krause",
+      "lastModifiedDate": "2023-03-24T20:24:16.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexClass"
+    },
+    {
+      "createdById": "0058b00000HLs9mAAD",
+      "createdByName": "Noemi Krause",
+      "createdDate": "2023-03-22T14:01:00.000Z",
+      "fileName": "classes/TriggerHandler.cls",
+      "fullName": "TriggerHandler",
+      "id": "01p8b00000AhXdxAAF",
+      "lastModifiedById": "0058b00000HLs9mAAD",
+      "lastModifiedByName": "Noemi Krause",
+      "lastModifiedDate": "2023-03-22T14:02:01.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexClass"
+    },
+    {
+      "createdById": "0058b00000HLs9mAAD",
+      "createdByName": "Noemi Krause",
+      "createdDate": "2023-03-22T14:04:00.000Z",
+      "fileName": "classes/OpportunityTriggerHandler.cls",
+      "fullName": "OpportunityTriggerHandler",
+      "id": "01p8b00000AhXiKAAV",
+      "lastModifiedById": "0058b00000HLs9mAAD",
+      "lastModifiedByName": "Noemi Krause",
+      "lastModifiedDate": "2023-03-31T19:29:51.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexClass"
+    },
+    {
+      "createdById": "0058b00000HLs9mAAD",
+      "createdByName": "Noemi Krause",
+      "createdDate": "2023-03-22T15:44:15.000Z",
+      "fileName": "classes/AddOppTeamMembersOwners.cls",
+      "fullName": "AddOppTeamMembersOwners",
+      "id": "01p8b00000AhcmCAAR",
+      "lastModifiedById": "0058b00000HLs9mAAD",
+      "lastModifiedByName": "Noemi Krause",
+      "lastModifiedDate": "2023-03-31T19:27:33.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexClass"
+    },
+    {
+      "createdById": "0058b00000HLs9mAAD",
+      "createdByName": "Noemi Krause",
+      "createdDate": "2023-03-22T14:06:56.000Z",
+      "fileName": "classes/OpportunityTriggerHelper.cls",
+      "fullName": "OpportunityTriggerHelper",
+      "id": "01p8b00000AhY33AAF",
+      "lastModifiedById": "0058b00000HLs9mAAD",
+      "lastModifiedByName": "Noemi Krause",
+      "lastModifiedDate": "2023-03-22T17:42:56.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexClass"
+    },
+    {
+      "createdById": "0058b00000HLs9mAAD",
+      "createdByName": "Noemi Krause",
+      "createdDate": "2023-03-22T12:04:39.000Z",
+      "fileName": "classes/trlhdtips__tt_UtilControllerTest.cls",
+      "fullName": "trlhdtips__tt_UtilControllerTest",
+      "id": "01p8b00000ASXXdAAP",
+      "lastModifiedById": "0058b00000HLs9mAAD",
+      "lastModifiedByName": "Noemi Krause",
+      "lastModifiedDate": "2023-03-22T12:04:39.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "trlhdtips",
+      "type": "ApexClass"
+    }
+  ]
+}

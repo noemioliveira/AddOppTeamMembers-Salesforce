@@ -1,0 +1,31 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0058b00000HLs9mAAD",
+      "createdByName": "Noemi Krause",
+      "createdDate": "2023-03-22T12:04:39.000Z",
+      "fileName": "flowDefinitions/customer_satisfaction.flowDefinition",
+      "fullName": "customer_satisfaction",
+      "id": "3008b0000012FPxAAM",
+      "lastModifiedById": "0058b00000HLs9mAAD",
+      "lastModifiedByName": "Noemi Krause",
+      "lastModifiedDate": "2023-03-22T12:04:39.000Z",
+      "manageableState": "unmanaged",
+      "type": "FlowDefinition"
+    },
+    {
+      "createdById": "0058b00000HLs9mAAD",
+      "createdByName": "Noemi Krause",
+      "createdDate": "2023-03-22T12:04:39.000Z",
+      "fileName": "flowDefinitions/net_promoter_score.flowDefinition",
+      "fullName": "net_promoter_score",
+      "id": "3008b0000012FPwAAM",
+      "lastModifiedById": "0058b00000HLs9mAAD",
+      "lastModifiedByName": "Noemi Krause",
+      "lastModifiedDate": "2023-03-22T12:04:39.000Z",
+      "manageableState": "unmanaged",
+      "type": "FlowDefinition"
+    }
+  ]
+}
